@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "b9c46613-bc2d-3843-abfb-80a7853a7744",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "b9c46613-bc2d-3843-abfb-80a7853a7744" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "b9c46613-bc2d-3843-abfb-80a7853a7744" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "91E51710-3122-4BE6-A7A4-90D9F0EEE1E8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "b9c46613-bc2d-3843-abfb-80a7853a7744" : "game_project\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Young3_7",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "cocos2d3_7\/Young3_7\/proj.ios_mac\/Young3_7.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/192.168.1.99\/svn\/FootBall",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "b9c46613-bc2d-3843-abfb-80a7853a7744"
+    }
+  ]
+}

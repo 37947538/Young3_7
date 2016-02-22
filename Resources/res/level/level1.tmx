@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="40" height="12" tilewidth="64" tileheight="64">
+ <tileset firstgid="1" name="map_1" tilewidth="64" tileheight="64">
+  <image source="map_1.png" trans="ff00ff" width="1412" height="640"/>
+ </tileset>
+ <layer name="background" width="40" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztzlNbGGAAQOG2ZjUb1dRso9VWs23bZmNTs23btm3jx/T+h32XO8/z3p+IiP/9SxnISCSZyEwWspKN7OQgJ7nITR6iyEs+8lOAghSicMC/IhSlGMUpQUlKUZoyRBNDLGUpR3kqUJE4KlGZKlQN+FeN6tSgJrWoTR3qUo/6NKAhjWhME5rSjObE04IEEgP+taQVSSTTmja0pR3t6UBHOtGZLnSlG93pQU960Zs+Af/60o/+DGAggxjMEIYyjOGMYCSjGM0YxjKO8UxgIpMC/k1mClOZxnRmMJNZzGYOc5nHfBaQwkIWsZglLGUZqQH/lrOClaxiNWmsYS3rWM8GNrKJzWxhK9vYzg52sovdAf/2sJd97OcABznEYY5wlGMc5wQnOcVpznCWc5znAhcD/l3iMle4yjWuc4Ob3OI2d7jLPe7zgIc84jFPeMozngf8e8FLXvGaN7zlHe/5wEc+8ZkvfOUb3/nBT37xmz/8DfiXDuaUXvc=
+  </data>
+ </layer>
+ <objectgroup name="road">
+  <object name="level" type="1" x="0" y="560" width="2528" height="208"/>
+  <object name="怪" type="2" x="496" y="368" width="592" height="240">
+   <properties>
+    <property name="enemy" value="{{0,2},{1,4}}"/>
+   </properties>
+  </object>
+  <object name="怪" type="2" x="1152" y="336" width="496" height="272">
+   <properties>
+    <property name="enemy" value="{{0,2},{3,4}}"/>
+   </properties>
+  </object>
+  <object name="怪" type="2" x="1728" y="336" width="496" height="272">
+   <properties>
+    <property name="enemy" value="{{2,2},{3,4}}"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>
